@@ -1,3 +1,13 @@
+# CS412 - Machine Learning Project
+
+## Overview
+
+With this project, we aimed to predict the first assignment grades of the CS-412 course by using students' ChatGPT conversation histories.
+
+- Atahan Bozkuş - 28471
+- Emir Ay - 28150
+
+
 ## Methodology
 
 1) Data Preparation and Preprocessing
